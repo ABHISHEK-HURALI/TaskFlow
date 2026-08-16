@@ -3,7 +3,7 @@
 > **"Organize your work. Track your progress."**
 
 <p align="center">
-  <img src="frontend/src/assets/hero.png" alt="TaskFlow Dashboard" width="900" />
+  <img src="frontend/src/assets/taskflow-preview.svg" alt="TaskFlow Dashboard Preview" width="900" />
 </p>
 
 ## Project Overview
