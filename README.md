@@ -2,6 +2,10 @@
 
 > **"Organize your work. Track your progress."**
 
+<p align="center">
+  <img src="frontend/src/assets/hero.png" alt="TaskFlow Dashboard" width="900" />
+</p>
+
 TaskFlow is a production-quality full-stack web application designed for creating, tracking, organizing, and managing tasks. Built with a **React + Vite** frontend and a **Django REST Framework** backend powered by **MySQL 8.0**, it features secure JWT authentication, strict owner-based data isolation, real-time filtering, search, sorting, dynamic dashboard analytics, and **WebSocket-powered real-time updates**.
 
 ---
