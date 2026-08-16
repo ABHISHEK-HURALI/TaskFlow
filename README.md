@@ -6,7 +6,31 @@
   <img src="frontend/src/assets/hero.png" alt="TaskFlow Dashboard" width="900" />
 </p>
 
-TaskFlow is a production-quality full-stack web application designed for creating, tracking, organizing, and managing tasks. Built with a **React + Vite** frontend and a **Django REST Framework** backend powered by **MySQL 8.0**, it features secure JWT authentication, strict owner-based data isolation, real-time filtering, search, sorting, dynamic dashboard analytics, and **WebSocket-powered real-time updates**.
+## Project Overview
+
+TaskFlow is a smart task management web app built to help users organize work, track task progress, and stay productive with a clean and responsive dashboard.
+
+- Create, update, delete, and organize tasks
+- Track progress with real-time dashboard statistics
+- Filter, search, and sort tasks instantly
+- Secure authentication with JWT
+- Real-time updates using WebSockets
+- Built for modern full-stack development workflows
+
+### Tech Stack
+
+- Frontend: React + Vite + Tailwind CSS
+- Backend: Django + Django REST Framework
+- Database: MySQL
+- Real-time: Django Channels + WebSockets
+- Auth: JWT
+
+### Live Demo
+
+- Local app: http://localhost:5173/dashboard
+- GitHub: https://github.com/ABHISHEK-HURALI/TaskFlow
+
+> A clean, production-ready task management solution for personal productivity and team workflows.
 
 ---
 
